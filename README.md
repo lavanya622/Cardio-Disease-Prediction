@@ -49,5 +49,4 @@ The goal is to provide **early warning** and help with **preventive healthcare**
 ## Notes 
 - The model predictions are based on the data provided in the notebook.  
 - Use realistic values for **blood pressure, cholesterol, and glucose** to get meaningful results.
-git clone https://github.com/yourusername/Cardio-Disease-Prediction.git
-cd Cardio-Disease-Prediction
+
