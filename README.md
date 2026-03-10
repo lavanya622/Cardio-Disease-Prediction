@@ -39,11 +39,12 @@ The goal is to provide **early warning** and help with **preventive healthcare**
 
 ## Project Files
 - `Cardiovascular Disease Prediction.ipynb` → Notebook with the project code and model training  
-- `README.md` → This file with project explanation  
+- `README.md` → This file with project explanation
+- Cardio dataset (csv file) Details 
 
 ## How to Run
 1. Open the notebook in Google Colab or locally using Jupyter.
-2. Download the data set and upload it, copy path then see it. 
+2. Download the dataset and upload it, copy path then see it. 
 3. Run the cells in order to see data processing, model training, and prediction.  
 4. Enter patient details when prompted to get the **risk prediction**.
 
